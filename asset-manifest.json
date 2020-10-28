@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/skill-surf/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/skill-surf/static/js/main.8c344bec.chunk.js",
-    "main.js.map": "/skill-surf/static/js/main.8c344bec.chunk.js.map",
+    "main.js": "/skill-surf/static/js/main.c4b7b8bf.chunk.js",
+    "main.js.map": "/skill-surf/static/js/main.c4b7b8bf.chunk.js.map",
     "runtime-main.js": "/skill-surf/static/js/runtime-main.9aee1f33.js",
     "runtime-main.js.map": "/skill-surf/static/js/runtime-main.9aee1f33.js.map",
-    "static/js/2.a2a40379.chunk.js": "/skill-surf/static/js/2.a2a40379.chunk.js",
-    "static/js/2.a2a40379.chunk.js.map": "/skill-surf/static/js/2.a2a40379.chunk.js.map",
+    "static/js/2.7f028a6b.chunk.js": "/skill-surf/static/js/2.7f028a6b.chunk.js",
+    "static/js/2.7f028a6b.chunk.js.map": "/skill-surf/static/js/2.7f028a6b.chunk.js.map",
     "static/js/3.f71f5f4b.chunk.js": "/skill-surf/static/js/3.f71f5f4b.chunk.js",
     "static/js/3.f71f5f4b.chunk.js.map": "/skill-surf/static/js/3.f71f5f4b.chunk.js.map",
     "index.html": "/skill-surf/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/skill-surf/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a2a40379.chunk.js.LICENSE.txt": "/skill-surf/static/js/2.a2a40379.chunk.js.LICENSE.txt",
+    "static/js/2.7f028a6b.chunk.js.LICENSE.txt": "/skill-surf/static/js/2.7f028a6b.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/skill-surf/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9aee1f33.js",
-    "static/js/2.a2a40379.chunk.js",
+    "static/js/2.7f028a6b.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.8c344bec.chunk.js"
+    "static/js/main.c4b7b8bf.chunk.js"
   ]
 }
